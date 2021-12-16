@@ -2,7 +2,7 @@
 
 ## **CONTENIDO :**
 - Partes Interesadas + Nomenclatura.
-- RF
+- Requisitos Funcionales 
 
 **OPTATIVIDAD**
 - Casos de uso + tabla
@@ -11,4 +11,6 @@
 
 ---
 
+## **1.Partes interesadas**
 
+![Partes Interesadas](pictures/partes_interesadas.jpg)
