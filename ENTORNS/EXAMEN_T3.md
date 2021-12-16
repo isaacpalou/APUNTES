@@ -32,5 +32,5 @@ Empresario: **RF_Empresario_XX**
 - Listar
 - Facturar
 >EJEMPLO
-![Requisitos Funcionales](pictures/RF.PNG)
+![Requisitos Funcionales](pictures/RF.png)
 
