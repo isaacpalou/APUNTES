@@ -17,8 +17,8 @@
 
 ### **Nomenclatura:**
 
-Cliente: RF_Cliente_XX<br>
-Empresario: RF_Empresario_XX
+Cliente: **RF_Cliente_XX**<br>
+Empresario: **RF_Empresario_XX**
 
 ## **2.Escribir requisitos funcionales de las partes interesadas.**
 
