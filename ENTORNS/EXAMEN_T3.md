@@ -76,7 +76,7 @@ Los diagramas de secuencia se constituyen de:
 ![Diagrama Secuencia](pictures/DS_1.png)
 
 Los tipos de mensajes tienen la siguiente descripción:
-- **Síncronos:**se utilizan cuando el objeto espera la respuesta de este mensaje antes de
+- **Síncronos:** se utilizan cuando el objeto espera la respuesta de este mensaje antes de
 continuar con su trabajo.
 - **Mensajes de retorno:** se usan cuando un objeto devuelve una respuesta de un mensaje
 síncrono.
